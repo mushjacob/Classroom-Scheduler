@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Period</label>
+	</settings>
+	<users>
+		<user>
+			<path>Period.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Period.jcp</path>
+		</project>
+	</projects>
+</workspace>
